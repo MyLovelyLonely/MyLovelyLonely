@@ -10,9 +10,9 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
+<!-- <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MyLovelyLonely.MyLovelyLonely&left_color=lightpink&right_color=mintcream"  />
-</div>
+</div> -->
 
 ###
 
@@ -103,6 +103,8 @@
 <h3 data-importer="text" align="left">📊   My Stats :</h3>
 
 ###
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyLovelyLonely&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
