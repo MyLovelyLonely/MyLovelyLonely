@@ -109,6 +109,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyLovelyLonely&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <br>
+  <br>
   <img src="https://streak-stats.demolab.com?user=MyLovelyLonely&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
