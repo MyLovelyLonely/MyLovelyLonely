@@ -24,7 +24,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Student at King Mongkut's University of Technology North Bangkok! (aka. KMUTNB -- such a long name right?)<br>Driving about UX/UI Design, Frontend Developer, i want to learn new things with coding and make a lot of creative project.</p>
+<p data-importer="text" align="left">I'm a student at King Mongkut's University of Technology North Bangkok! (aka. KMUTNB -- such a long name, right?)<br>Driven by UX/UI Design, Frontend Development, I want to learn new things with coding and make a lot of creative projects.</p>
 
 ###
 
